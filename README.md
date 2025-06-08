@@ -1,9 +1,11 @@
 #2nd UK Microfluidics System Conference Particle-Fluid-Interactions-in-Acoustically-Driven-Convection-Systems-A-Study-on-Microbead-Dynamics
 
 🧪 Acoustofluidics with SPH and Acoustic Force Modeling
+
 This repository presents a high-fidelity simulation framework that couples Smoothed Particle Hydrodynamics (SPH) with analytical and interpolated acoustic forces to model microbead dynamics in acoustically levitated and thermally driven environments. The application targets advancements in droplet microfluidics, biological analysis, and zero-gravity aerospace research.
 
-📌 Features
+📌 Features:
+
 ✅ Gor'kov Potential-based Acoustic Force
 
 ✅ FEM-style pressure field interpolation
