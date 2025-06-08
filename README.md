@@ -26,9 +26,11 @@ FEM-style simulated pressure field exported to CSV.
 Gradient of pressure used to compute acoustic force.
 
 SPH Simulation:
+
 Thermal convection handled via *HeatEquationWithSourceScheme*.
 
-Fluids: Water and Iodixanol (biological medium).
+Fluids:
+Water and Iodixanol (biological medium).
 
 Particles: 
 Microbeads subject to gravity, buoyancy, and acoustic forces.
