@@ -41,6 +41,7 @@ Influenced by both Gor'kov and interpolated FEM-based acoustic forces.
 Coupled to local temperature field and buoyancy using Boussinesq approximation.
 
 📂 File Structure:
+
 ├── acoustic_force_module.py         # Gor'kov and FEM acoustic force models
 
 ├── acoustic_pressure_fem.csv        # Simulated FEM-like acoustic pressure field
