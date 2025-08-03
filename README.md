@@ -63,11 +63,12 @@ This repository presents a high-fidelity simulation framework that couples **Smo
 
 <details>
 <summary><strong>📁 FILE STRUCTURE</strong></summary>
-acoustic_force_module.py        # Gor'kov and FEM acoustic force models  
+<pre>acoustic_force_module.py        # Gor'kov and FEM acoustic force models  
 acoustic_pressure_fem.csv       # Simulated FEM-like acoustic pressure field  
 acoustofluidics_sph_sim.py      # Main PySPH simulation script  
 plots/                          # Plots of simulation results  
 README.md                       # This file  
+</pre>
 
 
 
