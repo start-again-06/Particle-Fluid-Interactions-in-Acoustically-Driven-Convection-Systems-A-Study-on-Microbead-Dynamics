@@ -1,12 +1,12 @@
-==================================================
+
 #2ND UK MICROFLUIDICS SYSTEM CONFERENCE
-==================================================
+
 Title: Particle-Fluid Interactions in Acoustically Driven Convection Systems – A Study on Microbead Dynamics
 
 
-==================================================
-🧪 OVERVIEW
-==================================================
+
+OVERVIEW
+
 
 This repository presents a high-fidelity simulation framework that couples
 Smoothed Particle Hydrodynamics (SPH) with analytical and interpolated acoustic
@@ -19,9 +19,7 @@ The application targets advancements in:
 - Zero-gravity aerospace research
 
 
-==================================================
-📌 FEATURES
-==================================================
+FEATURES
 
 - Gor'kov Potential-based Acoustic Force
 - FEM-style pressure field interpolation
@@ -30,10 +28,7 @@ The application targets advancements in:
 - Microbead acoustic levitation and motion
 - Custom SPH kernel (Cubic Spline) for visualization & density estimation
 
-
-==================================================
-🧬 METHODOLOGY
-==================================================
+METHODOLOGY
 
 Acoustic Field Modeling:
 - Gor'kov potential computed analytically
@@ -53,10 +48,7 @@ Microbeads Dynamics:
 - Influenced by both Gor'kov and interpolated FEM-based acoustic forces
 - Coupled to local temperature field and buoyancy using Boussinesq approximation
 
-
-==================================================
-📂 FILE STRUCTURE
-==================================================
+FILE STRUCTURE
 
 acoustic_force_module.py        - Gor'kov and FEM acoustic force models  
 acoustic_pressure_fem.csv       - Simulated FEM-like acoustic pressure field  
@@ -64,10 +56,7 @@ acoustofluidics_sph_sim.py      - Main PySPH simulation script
 plots/                          - Plots of simulation results  
 README.md                       - This file
 
-
-==================================================
-🚀 HOW TO RUN
-==================================================
+HOW TO RUN
 
 1. Install Dependencies:
    pip install pysph numpy scipy matplotlib pandas
@@ -78,20 +67,14 @@ README.md                       - This file
 3. Run the SPH Simulation:
    python acoustofluidics_sph_sim.py
 
-
-==================================================
-📊 VISUALIZATION
-==================================================
+VISUALIZATION
 
 At the end of the simulation, a visual plot is generated showing:
 - Temperature distribution in fluids
 - Microbead positions
 - Field-driven convection patterns
 
-
-==================================================
-📖 CITATION
-==================================================
+CITATION
 
 If you use this code in your research, please cite:
 
