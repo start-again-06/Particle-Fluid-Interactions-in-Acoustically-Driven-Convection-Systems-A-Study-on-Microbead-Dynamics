@@ -3,7 +3,6 @@
 **Title:**  
 **Particle-Fluid Interactions in Acoustically Driven Convection Systems – A Study on Microbead Dynamics**  
 *Anjan Mahapatra and Muthu Shravan Sundaram*  
-*Delft University of Technology, Netherlands*
 
 ---
 
