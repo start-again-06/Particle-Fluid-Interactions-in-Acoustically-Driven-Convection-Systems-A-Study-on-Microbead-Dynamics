@@ -92,7 +92,7 @@ python acoustic_force_module.py
 
 python acoustofluidics_sph_sim.py
 
-<details> <summary><strong>📊 VISUALIZATION</strong></summary>
+📊 VISUALIZATION
 At the end of the simulation, a visual plot is generated showing:
 
 Temperature distribution in fluids
@@ -101,7 +101,7 @@ Microbead positions
 
 Field-driven convection patterns
 
-<details open> <summary><strong>📖 CITATION</strong></summary>
+📖 CITATION
 
 @article{Mahapatra2025,
   title     = {Particle-Fluid Interactions in Acoustically Driven Convection Systems: A Study on Microbead Dynamics},
